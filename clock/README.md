@@ -37,6 +37,12 @@ Simulation completed with zero mismatches.
 
 ---
 
+##EDA Playground Link
+
+The complete Verilog design and testbench are available on EDA Playground for simulation and verification.
+- EDA Playground Link: https://www.edaplayground.com/x/agBd
+The playground includes the design and self-checking testbench used to verify the clock functionality.
+
 ## Key Takeaways
 
 - Gained hands-on experience with structural RTL design  
